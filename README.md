@@ -8,6 +8,8 @@ Virtuelle Campus-Touren: https://www.campus-thueringen.de/hochschulen-in-thuerin
 
 ---
 
+# Lokale Hochschulen/Unis in Thüringen
+
 ## Fachhochschule Erfurt (https://www.fh-erfurt.de)
 
 Studierende: 4.237
@@ -205,8 +207,99 @@ Zusätzlich gibt es die Duale Hochschule:
 * Praktische Informatik (B.Sc.) (https://www.dhge.de/DHGE/Studiengaenge/Technik/Praktische_Informatik.html)
 * Wirtschaftsinformatik (B.Sc.) (https://www.dhge.de/DHGE/Studiengaenge/Technik/Wirtschaftsinformatik.html)
 
+---
+
+# Dank Bahn-Anbindung Berlin-München in <1h von Erfurt aus erreichbare Informatik-Unis
+
+## Hochschule Merseburg (Bahn: 30min (Standort Halle), 1h Merseburg) (https://www.hs-merseburg.de/leben/halle/)
+
+Studierende: 2864
+
+##### Bachelor
+
+* Angewandte Informatik (B.Sc.) (https://www.hs-merseburg.de/inw/studiengnge/angewandte-informatik-bsc/uebersicht/)
+* Automatisierungstechnik / Informationstechnik (B.Eng.) (https://www.hs-merseburg.de/inw/studiengnge/automatisierungstechnik-informationstechnik-beng/uebersicht/)
+* Wirtschaftsinformatik (B.Sc.) (https://www.hs-merseburg.de/ww/studiengaenge/wirtschaftsinformatik-bsc/)
+
+##### Master
+
+* Informatik und Kommunikationssysteme (M.Eng.) (https://www.hs-merseburg.de/inw/studiengnge/informatik-und-kommunikationssysteme-meng/)
+* Wirtschaftsinformatik (M.Sc.) (https://www.hs-merseburg.de/ww/studiengaenge/wirtschaftsinformatik-msc/)
 
 
+## Martin-Luther-Universität Halle-Wittenberg (Bahn: 35min) (http://www.uni-halle.de/)
+
+Studierende: 19.767
+Studiengänge: 253
+
+##### Fakultät Informatik (http://www.informatik.uni-halle.de/)
+
+* Informatik (B.Sc.) (http://www.informatik.uni-halle.de/studium/bachelor_informatik/)
+* Informatik (M.Sc.) (http://www.informatik.uni-halle.de/studium/master_informatik/)
+* Bioinformatik (B.Sc.) (http://www.informatik.uni-halle.de/studium/bachelor_bioinformatik/)
+* Bioinformatik (M.Sc.) (http://www.informatik.uni-halle.de/studium/master_bioinformatik/)
+* Interaktive Medien (M.Sc.) (http://www.informatik.uni-halle.de/studium/master_interaktivemedien/)
+* Wirtschaftsinformatik (B.Sc. & M.Sc.) (http://www.jurawiwi.uni-halle.de/)
+
+
+## Universität Leipzig (Bahn: 1h) (https://www.uni-leipzig.de/)
+
+Studierende: 30.226
+Studiengänge: 248
+
+##### Falkultät Informatik (http://studium.fmi.uni-leipzig.de/studium.html)
+
+* Informatik (B.Sc.) (http://studium.fmi.uni-leipzig.de/studium/informatik/#c1413)
+* Informatik (M.SC.) (http://studium.fmi.uni-leipzig.de/studium/informatik/#c1422)
+* Digital Humanities (B.Sc.) (http://studium.fmi.uni-leipzig.de/studium/informatik/#c1685)
+* Bioinformatik (M.Sc.) (http://studium.fmi.uni-leipzig.de/studium/informatik/#c1423)
+* Verschiedene Lehramtsstudiengänge (http://studium.fmi.uni-leipzig.de/studium.html)
+
+##### Fakultät Wirtschaft (http://iwi.wifa.uni-leipzig.de/)
+
+* Wirtschaftsinformatik (B.Sc.) (https://www.wifa.uni-leipzig.de/iwi/iwi/studium/bachelor.html)
+* Wirtschaftsinformatik (M.Sc.) (https://www.wifa.uni-leipzig.de/iwi/iwi/studium/master/master-of-science-msc-wirtschaftsinformatik.html)
+
+
+## Hochschule für Technik, Wirtschaft und Kultur (HTWK) Leipzig (Bahn: 1h) (https://www.htwk-leipzig.de/)
+
+Studierende: 6.111
+
+##### Bachelor
+
+* Elektrotechnik und Informationstechnik (B.Sc.) (https://www.htwk-leipzig.de/de/studieren/studiengaenge/bachelorstudiengaenge/elektrotechnik-und-informationstechnik/)
+* Informatik (B.Sc.) (https://www.htwk-leipzig.de/de/studieren/studiengaenge/bachelorstudiengaenge/informatik/)
+* Medieninformatik (B.Sc.) (https://www.htwk-leipzig.de/de/studieren/studiengaenge/bachelorstudiengaenge/medieninformatik/)
+* Medientechnik (B.Sc.) (https://www.htwk-leipzig.de/de/studieren/studiengaenge/bachelorstudiengaenge/medientechnik/)
+
+
+##### Master
+
+* Elektrotechnik und Informationstechnik (M.Sc.) (https://www.htwk-leipzig.de/de/studieren/studiengaenge/masterstudiengaenge/elektrotechnik-und-informationstechnik/)
+* Informatik (M.Sc.) (https://www.htwk-leipzig.de/de/studieren/studiengaenge/masterstudiengaenge/informatik/)
+* Medieninformatik (M.Sc.) (https://www.htwk-leipzig.de/de/studieren/studiengaenge/masterstudiengaenge/medieninformatik/)
+
+
+## Friedrich-Alexander-Universität Erlangen-Nürnberg (Bahn: 1h) (https://www.fau.de/)
+
+Studierende: 40.174
+
+##### Bachelor
+
+* Computational Engineering (BSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=computational-engineering-bsc)
+* Elektrotechnik - Elektronik - Informationstechnik (BSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=elektrotechnik-elektronik-informationstechnik-bsc)
+* Informatik (BSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=informatik-bsc)
+* Informatik / IT-Sicherheit (BSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=informatik-it-sicherheit-bsc)
+* Informations- und Kommunikationstechnik (BSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=informations-und-kommunikationstechnik-bsc)
+
+
+##### Master
+
+* Communications and Multimedia Engineering (MSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=communications-and-multimedia-engineering-msc)
+* Computational Engineering (MSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=computational-engineering-msc)
+* Elektrotechnik - Elektronik - Informationstechnik (MSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=elektrotechnik-elektronik-informationstechnik-msc)
+* Informatik (MSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=informatik-msc)
+* Informations- und Kommunikationstechnik (MSc) (https://www.fau.de/studium/vor-dem-studium/studiengaenge/alle-studiengaenge/?_fakultaet[]=technische-fakultaet&_studienort[]=erlangen&studiengang=informations-und-kommunikationstechnik-msc)
 
 
 
